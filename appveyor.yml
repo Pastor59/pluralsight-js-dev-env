@@ -1,5 +1,5 @@
 environment:
-  natrix:
+  matrix:
   - node_version: "6"
 
 install:
