@@ -1,4 +1,4 @@
-enviroment:
+environment:
   natrix:
   - node_version: "6"
 
